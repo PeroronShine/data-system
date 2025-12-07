@@ -41,5 +41,5 @@
 
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-ник/mini-data-system.git
+   git clone https://github.com/PeroronShine/data-system.git
    cd mini-data-system
